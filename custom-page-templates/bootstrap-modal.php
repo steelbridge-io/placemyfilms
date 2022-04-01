@@ -77,18 +77,34 @@ get_header();
     <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable">
       <div class="modal-content">
         <div class="modal-header">
+         <img class="mr-1" src="https://placemyfilms.s3.us-east-2.amazonaws.com/wp-content/uploads/2021/10/13103550/LOGOprofilewhite.png" alt="Place My Films">
           <h5 class="modal-title" id="fightforlifeModalLabel">Fight For Your Life Competition</h5>
           <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
         </div>
         <div class="modal-body">
-          <p>Your short horror film here!
-           Must be no more than 25 minutes
-           and no less than 23 minute.</p>
-          <p>Nulla quis lorem ut libero malesuada feugiat. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Quisque velit nisi, pretium ut lacinia in, elementum id enim.</p>
+         <h5>SUBMISSION RULES</h5>
+          <p>Who can enter the Fright For Your Life short-film competition?</p>
+          <p>Fright For Your Life is open to all independent short-film filmmakers anywhere in the world that meet the following criteria:</p>
+         <ul class="list-group list-group-flush">
+          <li class="list-group-item">Category is horror films only.</li>
+          <li class="list-group-item">Films selected will win an opportunity for distribution, and the top streamer will receive an award for most streamed.</li>
+          <li class="list-group-item">Total runtime for shorts must be no more than 25 minutes and no less than 23 minutes.</li>
+          <li class="list-group-item">The film must not have been screened, broadcasted, streamed, on television, internet, and/or released via home video or other public distribution platforms. They will not be considered so please don’t waste your time or money.</li>
+          <li class="list-group-item">Resolution for upload must be no more than 720dp and 700mb… A high resolution of 1080 or 4k will be required if participants win.</li>
+          <li class="list-group-item">Must have music clearance.</li>
+          <li class="list-group-item">Talent release forms must be signed.</li>
+          <li class="list-group-item">Location agreements must be signed.</li>
+          <li class="list-group-item">Must have captions.</li>
+          <li class="list-group-item">Formatted for upload must be compressed into a  zip file and film must be mp4 or mov.</li>
+         </ul>
+         <h6 style="mt-5 mb-5">What steps do I need to take to submit to Place My Films for Fright For Your Life?</h6>
+         <ol class="list-group list-group-flush">
+          <li class="list-group-item">1. Create a good quality film</li>
+          <li class="list-group-item">2. Purchase our "Fight For Your Life" plan for $99.00.</li>
+          <li class="list-group-item">3. Upload your film to the Place My Films Website.</li>
+          <li class="list-group-item">4. Expect us to get back to you with a response to your awesome film.</li>
+         </ol>
          <a href="/product/package-99/" title="Purchase &amp; Upload"><button type="button" class="btn btn-dark">Purchase &amp; Upload</button></a>
-        </div>
-        <div class="modal-footer">
-          <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
         </div>
       </div>
     </div>
@@ -99,6 +115,7 @@ get_header();
    <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable">
     <div class="modal-content">
      <div class="modal-header">
+      <img class="mr-1" src="https://placemyfilms.s3.us-east-2.amazonaws.com/wp-content/uploads/2021/10/13103550/LOGOprofilewhite.png" alt="Place My Films">
       <h5 class="modal-title" id="scriptpitchModalLabel">Script Pitch Only</h5>
       <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
      </div>
@@ -109,9 +126,6 @@ get_header();
       <p>Nulla quis lorem ut libero malesuada feugiat. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Quisque velit nisi, pretium ut lacinia in, elementum id enim.</p>
       <a href="/product/package-199/" title="Purchase &amp; Upload"><button type="button" class="btn btn-dark">Purchase &amp; Upload</button></a>
      </div>
-     <div class="modal-footer">
-      <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-     </div>
     </div>
    </div>
   </div>
@@ -121,6 +135,7 @@ get_header();
    <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable">
     <div class="modal-content">
      <div class="modal-header">
+      <img class="mr-1" src="https://placemyfilms.s3.us-east-2.amazonaws.com/wp-content/uploads/2021/10/13103550/LOGOprofilewhite.png" alt="Place My Films">
       <h5 class="modal-title" id="featuredfilmsModalLabel">Featured Films Only</h5>
       <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
      </div>
@@ -130,9 +145,6 @@ get_header();
        or longer to qualify.</p>
       <p>Nulla quis lorem ut libero malesuada feugiat. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Quisque velit nisi, pretium ut lacinia in, elementum id enim.</p>
       <a href="/product/package-299/" title="Purchase &amp; Upload"><button type="button" class="btn btn-dark">Purchase &amp; Upload</button></a>
-     </div>
-     <div class="modal-footer">
-      <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
      </div>
     </div>
    </div>

@@ -1,10 +1,43 @@
 /** Modal */
 
-#fightforlifeModal {
-  background: url("https://placemyfilms.s3.us-east-2.amazonaws.com/wp-content/uploads/2022/03/23183613/Edit-2-scaled.jpg") no-repeat center center;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}
+#fightforlifeModal, #scriptpitchModal, #featuredfilmsModal {
+  .modal-content {
+      background-color: #00B1DB;
+      background-image:
+        linear-gradient(
+            #00B1DB, #01D3B5
+        );
+    }
+  }
+  .modal-header {
+    position: relative;
+    z-index: 3;
+    border: none !important;
+    h5, h6 {
+      color: $white-font;
+    }
+    background-color: $black;
+  }
+  .modal-body {
+    h5, h6 {
+      color: $white-font;
+    }
+    position: relative;
+    z-index: 3;
+    p {
+      color: $white-font;
+    }
+    ul, ol {
+      background-color: transparent;
+      li.list-group-item {
+        color: $white-font;
+        background-color: transparent;
+        font-weight: 600;
+      }
+    }
+    ul {
+      list-style-type: disc !important;
+    }
+  }
+
 

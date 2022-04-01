@@ -1,9 +1,41 @@
+/** Globals */
+.mr-1 {
+  margin-right: 1em; }
+
 /** Modal */
-#fightforlifeModal {
-  background: url("https://placemyfilms.s3.us-east-2.amazonaws.com/wp-content/uploads/2022/03/23183613/Edit-2-scaled.jpg") no-repeat center center;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover; }
+#fightforlifeModal .modal-content, #scriptpitchModal .modal-content, #featuredfilmsModal .modal-content {
+  background-color: #00B1DB;
+  background-image: linear-gradient(#00B1DB, #01D3B5); }
+
+.modal-header {
+  position: relative;
+  z-index: 3;
+  border: none !important;
+  background-color: #020202; }
+  .modal-header h5, .modal-header h6 {
+    color: #ffffff; }
+
+.modal-body {
+  position: relative;
+  z-index: 3; }
+  .modal-body h5, .modal-body h6 {
+    color: #ffffff; }
+  .modal-body p {
+    color: #ffffff; }
+  .modal-body ul, .modal-body ol {
+    background-color: transparent; }
+    .modal-body ul li.list-group-item, .modal-body ol li.list-group-item {
+      color: #ffffff;
+      background-color: transparent;
+      font-weight: 600; }
+  .modal-body ul {
+    list-style-type: disc !important; }
+
+/** Single Product */
+.wcuf_feedback_textarea {
+  width: 100% !important; }
+
+.wcuf_upload_fields_row_element h5 {
+  color: #ffffff; }
 
 /*# sourceMappingURL=betheme-css.css.map */
