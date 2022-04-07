@@ -143,7 +143,9 @@ get_header();
       <p>Upload your film here!
        Film must be 75 minutes
        or longer to qualify.</p>
-      <p>Nulla quis lorem ut libero malesuada feugiat. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Quisque velit nisi, pretium ut lacinia in, elementum id enim.</p>
+      <p>Please provide a .zip compressed file.</p>
+      <p>File size must not exceed 1GB.</p>
+      <p>If your file is larger than 1GB, please use our <a href="/contact-us" title="Contact Us">contact form</a> to reach out to us and we can provide you with a link that allows larger uploads.</p>
       <a href="/product/package-299/" title="Purchase &amp; Upload"><button type="button" class="btn btn-dark">Purchase &amp; Upload</button></a>
      </div>
     </div>

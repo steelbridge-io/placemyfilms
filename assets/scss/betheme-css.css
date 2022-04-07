@@ -35,6 +35,9 @@
   .modal-body ul {
     list-style-type: disc !important; }
 
+.btn.btn-dark {
+  background-color: #020202; }
+
 /** Single Product */
 .wcuf_feedback_textarea {
   width: 100% !important; }
