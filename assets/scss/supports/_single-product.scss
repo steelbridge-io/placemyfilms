@@ -5,3 +5,22 @@
 .wcuf_upload_fields_row_element h5 {
   color: $white-font;
 }
+.single-product .woocommerce-product-gallery__image {
+  pointer-events: none;
+}
+
+/* *** Disable Woo Product Zoom *** */
+
+.zoomWindowContainer {
+  display:none!important;
+}
+
+/* *** Disable Woo Product Zoom *** */
+
+.image_frame.scale-with-grid.product-loop-thumb {
+  z-index: 1;
+}
+
+.woocommerce ul.products li.product .woocommerce-placeholder {
+  border: none;
+}
