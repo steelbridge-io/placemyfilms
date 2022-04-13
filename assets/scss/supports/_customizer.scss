@@ -104,51 +104,7 @@ html {
   font-weight: 400;
 }
 /* end custom box */
-/* footer */
-ul#menu-my-menu-1 {
-  display: flex;
-  list-style-type: none;
-  justify-content: end;
-}
-ul#menu-my-menu-1 li {
-  padding: 0px 10px;
-}
-ul#menu-my-menu-1 li a{
-  color:#F7F7F7 ;
-  font-family: 'Montserrat';
-  font-size: 14px;
-  font-weight: 500;
-}
-ul#menu-my-menu-1 li a:hover{
-  color:#00B7DA ;
-}
-ul.footer_social_icon {
-  display: flex;
-  justify-content: end;
-  padding: 0px 30px;
-}
 
-ul.footer_social_icon a{
-  font-size:20px;
-  padding-left:15px;
-  color:#F1F1F1 !important;
-}
-ul.footer_social_icon a:hover{
-  color:#00B7DA !important;
-}
-aside#block-8 {
-  font-size:14px;
-  color:#F1F1F1 !important;
-  padding-top: 50px;
-}
-aside#block-9 {
-  padding-top: 50px;
-}
-#Footer .Recent_posts ul li .desc h6, #Footer .widget_recent_entries ul li a, #Footer .widget_best_sellers li, #Footer .widget_featured_products li, #Footer .widget_recent_reviews li, #Footer .widget_recent_products li, #Footer .widget_recently_viewed_products li, #Footer .widget_random_products li, #Footer .widget_top_rated_products li, #Footer .widget_onsale li, #Footer .widget_layered_nav li, #Footer .widget_shopping_cart ul.product_list_widget li, #Footer .widget_products li, #Footer .widget_archive ul li:after, #Footer .widget_nav_menu ul li:after, #Footer table th, #Footer table td {
-  border-color: rgba(255,255,255,.0);
-}
-
-/* end footer */
 /* shop */
 .woocommerce, th, td, a, span, h4, h1 {
   color: #F7F7F7;
