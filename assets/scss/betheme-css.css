@@ -140,4 +140,13 @@ aside#block-9 {
 .gfield_label {
   color: #ffffff; }
 
+#gform_submit_button_1 {
+  background: #35a5ed;
+  background: linear-gradient(180deg, #35a5ed 35%, #48e3a6 100%); }
+
+/** Woocommerce */
+.woocommerce a.button:not(.default) {
+  background: #35a5ed;
+  background: linear-gradient(180deg, #35a5ed 35%, #48e3a6 100%); }
+
 /*# sourceMappingURL=betheme-css.css.map */

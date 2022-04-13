@@ -1,9 +1,6 @@
-/** Gravity Forms */
-.gfield_label {
-  color: $white-font;
-}
+/** Woocommerce */
 
-#gform_submit_button_1 {
+.woocommerce a.button:not(.default) {
   background: rgb(53,165,237);
   background: linear-gradient(180deg, rgba(53,165,237,1) 35%, rgba(72,227,166,1) 100%);
 }
